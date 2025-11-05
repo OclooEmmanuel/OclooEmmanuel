@@ -1,70 +1,47 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi, I'm Ocloo Emmanuel</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Ghana 🇬🇭</h3>
+<!-- 🌐 Glassmorphism-Inspired GitHub Bio by ChatGPT -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Django+%7C+Python+%7C+JavaScript;Building+Modern+Web+Apps;Turning+Ideas+Into+Reality!">
-</p>
+<div align="center" style="backdrop-filter: blur(15px); background: rgba(255,255,255,0.05); border-radius: 20px; padding: 40px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); border: 1px solid rgba(255, 255, 255, 0.18);">
 
----
+  <h1 align="center">👋 Hey, I'm <span style="color:#00bcd4;">Emmanuel Ocloo</span></h1>
+  <h3 align="center">🚀 Full-Stack Developer | Creator of CommitLog | Building the web, beautifully.</h3>
 
-### 🚀 About Me
-- 💻 I’m currently working on **CommitLog**, a modern Django-powered blog platform.  
-- 🌱 Learning more about **Cloud Deployment (Render, Vercel, AWS)** and **REST APIs**.  
-- 🧠 I enjoy creating sleek, functional, and meaningful web apps.  
-- 🎯 My goal: Build solutions that make people’s digital lives easier.  
-- ⚡ Fun fact: I debug faster with music 🎧
+  <p align="center">
+    I’m passionate about crafting clean, thoughtful digital experiences that connect design and functionality.<br>
+    I believe in writing code that’s elegant, scalable, and human-centered — technology with purpose.
+  </p>
 
----
+  <hr style="width:60%; border: 0; height: 1px; background: rgba(255,255,255,0.2); margin: 20px auto;" />
 
-### 🛠️ Tech Stack
+  <h3 align="left">🧠 What I Do</h3>
+  <ul align="left">
+    <li>💻 Build modern web applications with <b>Django</b>, <b>JavaScript</b>, and <b>React</b></li>
+    <li>🎨 Craft smooth, responsive UIs with <b>Bootstrap</b> and <b>CSS artistry</b></li>
+    <li>☁️ Explore APIs, data visualization, and automation tools</li>
+    <li>🧩 Blend creativity with functionality — every pixel matters.</li>
+  </ul>
 
-#### 🧩 **Languages & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+  <h3>🌍 Connect With Me</h3>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/emmanuel-ocloo" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:oclooemmanuel.dev@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/OclooEmmanuel" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
 
-#### 🧰 **Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+  <h3>🧰 Tech Stack</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,git,github,sqlite,vscode&perline=5" />
+  </p>
 
----
+  <hr style="width:60%; border: 0; height: 1px; background: rgba(255,255,255,0.2); margin: 20px auto;" />
 
-### 🌍 Featured Project
-#### 📰 [**CommitLog**](https://github.com/yourusername/CommitLog)
-> A tech-focused blogging platform built with **Django + Bootstrap**, featuring user authentication, post management, and a clean, responsive UI.
+  <p align="center">
+    ✨ “Good design is as little design as possible — but great code makes it timeless.” ✨
+  </p>
 
-<p align="center">
-  <img src="https://github.com/yourusername/CommitLog/raw/main/preview.gif" width="600px" alt="CommitLog Preview"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OclooEmmanuel&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OclooEmmanuel&layout=compact&theme=radical" height="165">
-</p>
-
----
-
-### 🤝 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/OclooEmmanuel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-⭐ **“Code is like humor — when you have to explain it, it’s bad.”**
+</div>
