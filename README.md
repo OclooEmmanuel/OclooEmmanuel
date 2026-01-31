@@ -1,4 +1,4 @@
-<!-- Include Font Awesome CDN -->
+<!-- Include Font Awesome CDN for terminal icon -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" />
 
 <div align="center" style="backdrop-filter: blur(15px); background: rgba(255,255,255,0.05); border-radius: 20px; padding: 40px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); border: 1px solid rgba(255, 255, 255, 0.18);">
@@ -13,21 +13,24 @@
 
   <hr style="width:60%; border: 0; height: 1px; background: rgba(255,255,255,0.2); margin: 20px auto;" />
 
-  <h3 align="left">🧠 What I Do</h3>
+  <h3>🧠 What I Do</h3>
   <ul align="left">
     <li>💻 Build modern web applications with 
-      <a href="https://www.djangoproject.com/" target="_blank"><b>Django</b></a>, 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><b>JavaScript</b></a>, 
-      <!-- <a href="https://reactjs.org/docs/getting-started.html" target="_blank"><b>React</b></a>,  -->
-      <a href="https://htmx.org/docs/" target="_blank"><b>HTMX</b></a>, 
-      <a href="https://www.django-rest-framework.org/" target="_blank"><b>DRF</b></a>, 
-      <a href="https://django-ninja.dev/" target="_blank"><b>Django Ninja</b></a>
+      <a href="https://www.djangoproject.com/" target="_blank" style="text-decoration:none; color:green;">Django</a>, 
+      <a href="https://www.django-rest-framework.org/" target="_blank" style="text-decoration:none; color:green;">DRF</a>, 
+      <a href="https://django-ninja.dev/" target="_blank" style="text-decoration:none; color:green;">Django Ninja</a>, 
+      <a href="https://htmx.org/docs/" target="_blank" style="text-decoration:none; color:blue;">HTMX</a>
     </li>
     <li>🎨 Craft smooth, responsive UIs with 
-      <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><b>Bootstrap</b></a> 
+      <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" style="text-decoration:none; color:green;">Bootstrap</a> 
       and <b>CSS artistry</b>
     </li>
     <li>☁️ Explore APIs, data visualization, and automation tools</li>
+    <li>🐧 Develop and deploy applications on 
+      <a href="https://www.kernel.org/doc/html/latest/" target="_blank" style="text-decoration:none; color:green;">Linux</a> 
+      and 
+      <a href="https://www.debian.org/" target="_blank" style="text-decoration:none; color:green;">Debian</a>
+    </li>
     <li>🧩 Blend creativity with functionality — every pixel matters.</li>
   </ul>
 
@@ -45,23 +48,25 @@
   </p>
 
   <h3>🧰 Tech Stack</h3>
-<p align="center">
-  <a href="https://www.python.org/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="50" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" width="50" /></a>
-  <a href="https://www.django-rest-framework.org/" target="_blank">
-    <img src="https://res.cloudinary.com/apideck/image/upload/v1616206512/icons/django-rest-framework.png" width="50" alt="DRF"/>
-  </a>
-  <a href="https://django-ninja.dev/" target="_blank"><img src="https://django-ninja.dev/img/docs-logo.png" width="50" alt="Django Ninja"/></a>
-  <a href="https://htmx.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=htmx" width="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="50" /></a>
-  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" /></a>
-  <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="50" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="50" /></a>
-  <a href="https://www.sqlite.org/docs.html" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" width="50" /></a>
-  <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="50" /></a>
-</p>
+  <p align="center">
+    <a href="https://www.python.org/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="50" /></a>
+    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" width="50" /></a>
+    <a href="https://www.django-rest-framework.org/" target="_blank">
+      <img src="https://res.cloudinary.com/apideck/image/upload/v1616206512/icons/django-rest-framework.png" width="50" alt="DRF"/>
+    </a>
+    <a href="https://django-ninja.dev/" target="_blank"><img src="https://django-ninja.dev/img/docs-logo.png" width="50" alt="Django Ninja"/></a>
+    <a href="https://htmx.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=htmx" width="50" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="50" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="50" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="50" /></a>
+    <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" /></a>
+    <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="50" /></a>
+    <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="50" /></a>
+    <a href="https://www.sqlite.org/docs.html" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" width="50" /></a>
+    <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="50" /></a>
+    <a href="https://www.kernel.org/doc/html/latest/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux"/></a>
+    <a href="https://www.debian.org/" target="_blank"><img src="https://skillicons.dev/icons?i=debian" width="50" alt="Debian"/></a>
+  </p>
 
   <hr style="width:60%; border: 0; height: 1px; background: rgba(255,255,255,0.2); margin: 20px auto;" />
 
@@ -77,9 +82,11 @@
     <br>
     A clean, elegant platform to track and visualize commits across projects. Built with 
     <a href="https://www.djangoproject.com/" target="_blank" style="text-decoration:none; color:green;">Django</a>, 
-    <!-- <a href="https://www.django-rest-framework.org/" target="_blank" style="text-decoration:none; color:green;">DRF</a>,  -->
-    <!-- <a href="https://django-ninja.dev/" target="_blank" style="text-decoration:none; color:green;">Django Ninja</a>,  -->
-    <a href="https://htmx.org/docs/" target="_blank" style="text-decoration:none; color:blue;">HTMX</a>, and modern front-end design.
+    <a href="https://www.django-rest-framework.org/" target="_blank" style="text-decoration:none; color:green;">DRF</a>, 
+    <a href="https://django-ninja.dev/" target="_blank" style="text-decoration:none; color:green;">Django Ninja</a>, 
+    <a href="https://htmx.org/docs/" target="_blank" style="text-decoration:none; color:blue;">HTMX</a>, 
+    and deployed on <a href="https://www.kernel.org/doc/html/latest/" target="_blank" style="text-decoration:none; color:green;">Linux</a> 
+    and <a href="https://www.debian.org/" target="_blank" style="text-decoration:none; color:green;">Debian</a>.
   </p>
 
   <hr style="width:60%; border: 0; height: 1px; background: rgba(255,255,255,0.2); margin: 20px auto;" />
