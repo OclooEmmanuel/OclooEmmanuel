@@ -15,7 +15,7 @@
 
   <h3 align="left">🧠 What I Do</h3>
   <ul align="left">
-    <li>💻 Build modern web applications with <b>Django</b>, <b>JavaScript</b>, and <b>React</b></li>
+    <li>💻 Build modern web applications with <b>Django</b>, <b>JavaScript</b>, <b>React</b>, and <b>HTMX</b></li>
     <li>🎨 Craft smooth, responsive UIs with <b>Bootstrap</b> and <b>CSS artistry</b></li>
     <li>☁️ Explore APIs, data visualization, and automation tools</li>
     <li>🧩 Blend creativity with functionality — every pixel matters.</li>
@@ -36,7 +36,7 @@
 
   <h3>🧰 Tech Stack</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,git,github,sqlite,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,htmx,git,github,sqlite,vscode&perline=6" />
   </p>
 
   <hr style="width:60%; border: 0; height: 1px; background: rgba(255,255,255,0.2); margin: 20px auto;" />
@@ -51,13 +51,13 @@
       <b>CommitLog</b>
     </a>
     <br>
-    A clean, elegant platform to track and visualize commits across projects. Built with Django, REST API, and modern front-end design.
+    A clean, elegant platform to track and visualize commits across projects. Built with Django, REST API, HTMX, and modern front-end design.
   </p>
 
   <hr style="width:60%; border: 0; height: 1px; background: rgba(255,255,255,0.2); margin: 20px auto;" />
 
   <p align="center">
-    ✨ “Good design is as little design as possible, but great code makes it timeless.” ✨
+    ✨ “Good design is as little design as possible — but great code makes it timeless.” ✨
   </p>
 
 </div>
