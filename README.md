@@ -1,4 +1,5 @@
-<!-- 🌐 Glassmorphism-Inspired GitHub Bio by ChatGPT -->
+<!-- Include Font Awesome CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" />
 
 <div align="center" style="backdrop-filter: blur(15px); background: rgba(255,255,255,0.05); border-radius: 20px; padding: 40px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); border: 1px solid rgba(255, 255, 255, 0.18);">
 
@@ -40,8 +41,23 @@
 
   <hr style="width:60%; border: 0; height: 1px; background: rgba(255,255,255,0.2); margin: 20px auto;" />
 
+  <h3>💼 Featured Project</h3>
   <p align="center">
-    ✨ “Good design is as little design as possible — but great code makes it timeless.” ✨
+    <a href="https://github.com/OclooEmmanuel/CommitLog" target="_blank" style="text-decoration:none; color:white;">
+      <div style="display:inline-block; width:120px; height:120px; background: rgba(255,255,255,0.1); border-radius:20px; display:flex; align-items:center; justify-content:center; font-size:50px; box-shadow:0 8px 24px rgba(0,0,0,0.3); margin-bottom:10px;">
+        <i class="fa-solid fa-terminal"></i>
+      </div>
+      <br>
+      <b>CommitLog</b>
+    </a>
+    <br>
+    A clean, elegant platform to track and visualize commits across projects. Built with Django, REST API, and modern front-end design.
+  </p>
+
+  <hr style="width:60%; border: 0; height: 1px; background: rgba(255,255,255,0.2); margin: 20px auto;" />
+
+  <p align="center">
+    ✨ “Good design is as little design as possible, but great code makes it timeless.” ✨
   </p>
 
 </div>
