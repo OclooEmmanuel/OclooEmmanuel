@@ -4,11 +4,11 @@
 <div align="center" style="backdrop-filter: blur(15px); background: rgba(255,255,255,0.05); border-radius: 20px; padding: 40px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); border: 1px solid rgba(255, 255, 255, 0.18);">
 
   <h1 align="center">👋 Hey, I'm <span style="color:#00bcd4;">Emmanuel Ocloo</span></h1>
-  <h3 align="center">🚀 Full-Stack Developer | Creator of CommitLog | Building the web, beautifully.</h3>
+  <h3 align="center">🚀 Full-Stack Developer(Backend specific) | Creator of CommitLog | Building the web, beautifully.</h3>
 
   <p align="center">
     I’m passionate about crafting clean, thoughtful digital experiences that connect design and functionality.<br>
-    I believe in writing code that’s elegant, scalable, and human-centered — technology with purpose.
+    I believe in writing code that’s elegant, scalable, and human-centered technology with purpose.
   </p>
 
   <hr style="width:60%; border: 0; height: 1px; background: rgba(255,255,255,0.2); margin: 20px auto;" />
@@ -23,15 +23,15 @@
     </li>
     <li>🎨 Craft smooth, responsive UIs with 
       <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" style="text-decoration:none; color:green;">Bootstrap</a> 
-      and <b>CSS artistry</b>
+      and <b>CSS</b>
     </li>
-    <li>☁️ Explore APIs, data visualization, and automation tools</li>
+    <li>☁️ Explore APIs with Django Rest Framework and Django NInja
     <li>🐧 Develop and deploy applications on 
       <a href="https://www.kernel.org/doc/html/latest/" target="_blank" style="text-decoration:none; color:green;">Linux</a> 
       and 
       <a href="https://www.debian.org/" target="_blank" style="text-decoration:none; color:green;">Debian</a>
     </li>
-    <li>🧩 Blend creativity with functionality — every pixel matters.</li>
+    <li>🧩 Blend creativity with functionality.</li>
   </ul>
 
   <h3>🌍 Connect With Me</h3>
