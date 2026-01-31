@@ -15,8 +15,18 @@
 
   <h3 align="left">🧠 What I Do</h3>
   <ul align="left">
-    <li>💻 Build modern web applications with <b>Django</b>, <b>JavaScript</b>, <b>React</b>, and <b>HTMX</b></li>
-    <li>🎨 Craft smooth, responsive UIs with <b>Bootstrap</b> and <b>CSS artistry</b></li>
+    <li>💻 Build modern web applications with 
+      <a href="https://www.djangoproject.com/" target="_blank"><b>Django</b></a>, 
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><b>JavaScript</b></a>, 
+      <!-- <a href="https://reactjs.org/docs/getting-started.html" target="_blank"><b>React</b></a>,  -->
+      <a href="https://htmx.org/docs/" target="_blank"><b>HTMX</b></a>, 
+      <a href="https://www.django-rest-framework.org/" target="_blank"><b>DRF</b></a>, 
+      <a href="https://django-ninja.dev/" target="_blank"><b>Django Ninja</b></a>
+    </li>
+    <li>🎨 Craft smooth, responsive UIs with 
+      <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><b>Bootstrap</b></a> 
+      and <b>CSS artistry</b>
+    </li>
     <li>☁️ Explore APIs, data visualization, and automation tools</li>
     <li>🧩 Blend creativity with functionality — every pixel matters.</li>
   </ul>
@@ -35,9 +45,23 @@
   </p>
 
   <h3>🧰 Tech Stack</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,htmx,git,github,sqlite,vscode&perline=6" />
-  </p>
+<p align="center">
+  <a href="https://www.python.org/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="50" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" width="50" /></a>
+  <a href="https://www.django-rest-framework.org/" target="_blank">
+    <img src="https://res.cloudinary.com/apideck/image/upload/v1616206512/icons/django-rest-framework.png" width="50" alt="DRF"/>
+  </a>
+  <a href="https://django-ninja.dev/" target="_blank"><img src="https://django-ninja.dev/img/docs-logo.png" width="50" alt="Django Ninja"/></a>
+  <a href="https://htmx.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=htmx" width="50" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="50" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="50" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="50" /></a>
+  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" /></a>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="50" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="50" /></a>
+  <a href="https://www.sqlite.org/docs.html" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" width="50" /></a>
+  <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="50" /></a>
+</p>
 
   <hr style="width:60%; border: 0; height: 1px; background: rgba(255,255,255,0.2); margin: 20px auto;" />
 
@@ -51,7 +75,11 @@
       <b>CommitLog</b>
     </a>
     <br>
-    A clean, elegant platform to track and visualize commits across projects. Built with Django, REST API, HTMX, and modern front-end design.
+    A clean, elegant platform to track and visualize commits across projects. Built with 
+    <a href="https://www.djangoproject.com/" target="_blank" style="text-decoration:none; color:green;">Django</a>, 
+    <!-- <a href="https://www.django-rest-framework.org/" target="_blank" style="text-decoration:none; color:green;">DRF</a>,  -->
+    <!-- <a href="https://django-ninja.dev/" target="_blank" style="text-decoration:none; color:green;">Django Ninja</a>,  -->
+    <a href="https://htmx.org/docs/" target="_blank" style="text-decoration:none; color:blue;">HTMX</a>, and modern front-end design.
   </p>
 
   <hr style="width:60%; border: 0; height: 1px; background: rgba(255,255,255,0.2); margin: 20px auto;" />
