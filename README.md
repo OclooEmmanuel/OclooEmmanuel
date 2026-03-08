@@ -3,7 +3,7 @@
 
 <div align="center" style="backdrop-filter: blur(15px); background: rgba(255,255,255,0.05); border-radius: 20px; padding: 40px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); border: 1px solid rgba(255, 255, 255, 0.18);">
 
-  <h1 align="center">👋 Hey, I'm <span style="color:#00bcd4;">Emmanuel Ocloo</span></h1>
+  <h1 align="center">👋 Hey, I'm <span style="color:#00bcd4;"> Ocloo Emmanuel</span></h1>
   <h3 align="center">🚀 Full-Stack Developer(Backend specific) | Creator of CommitLog | Building the web, beautifully.</h3>
 
   <p align="center">
